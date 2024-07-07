@@ -1,0 +1,3 @@
+ZeroDivisionError: division by zero - нельзя делить на ноль
+TypeError: can only concatenate str (not "int") to str - нельзя складывать строку и число. Чтобы исправить - нужно превратить в другой тип данных
+SyntaxError: expected ':' - забыли поставить : в конце условия
